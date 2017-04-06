@@ -1,0 +1,6 @@
+c:\users\ako\documents\visual studio 2015\Projects\FirstRepositoryTest\FirstRepositoryTest\bin\Debug\FirstRepositoryTest.exe.config
+c:\users\ako\documents\visual studio 2015\Projects\FirstRepositoryTest\FirstRepositoryTest\bin\Debug\FirstRepositoryTest.exe
+c:\users\ako\documents\visual studio 2015\Projects\FirstRepositoryTest\FirstRepositoryTest\bin\Debug\FirstRepositoryTest.pdb
+c:\users\ako\documents\visual studio 2015\Projects\FirstRepositoryTest\FirstRepositoryTest\obj\Debug\FirstRepositoryTest.csprojResolveAssemblyReference.cache
+c:\users\ako\documents\visual studio 2015\Projects\FirstRepositoryTest\FirstRepositoryTest\obj\Debug\FirstRepositoryTest.exe
+c:\users\ako\documents\visual studio 2015\Projects\FirstRepositoryTest\FirstRepositoryTest\obj\Debug\FirstRepositoryTest.pdb
